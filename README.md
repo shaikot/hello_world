@@ -1,1 +1,1 @@
-# hello_world
+# This is a repository created to understand github more practically.
